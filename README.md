@@ -11,8 +11,8 @@
 ## 比赛与数据链接
 - 数据集版本有误（5.1之前会更新版本，暂时可使用现有进行测试）
 - 比赛测评链接：https://www.codabench.org/competitions/15468/
-- 百度网盘链接：https://pan.baidu.com/s/1g0-lsRSe2vnjTMOW8ZwSeg?pwd=1fen
-- 提取码：`1fen`
+- 百度网盘链接：[https://pan.baidu.com/s/1g0-lsRSe2vnjTMOW8ZwSeg?pwd=1fen](https://pan.baidu.com/s/1hz06hkb3Des2KbXGqC3ZBg?pwd=7hmm )
+- 提取码：`7hmm`
 
 ## 测评内容
 
