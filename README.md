@@ -9,9 +9,11 @@
 针对这一问题，本文聚焦多模态对话情感原因解释任务，即 **Multimodal Emotion Cause Explanation in Conversation (MECEC)**。该任务要求模型在理解对话语境和多模态证据的基础上，生成目标话语情绪成因的自然语言解释，从而更完整地揭示情绪产生的原因。
 
 ## 比赛与数据链接(问题联系15040426819@163.com)
-- 比赛测评链接：https://www.codabench.org/competitions/15468/(待修复)
-- 百度网盘链接：[https://pan.baidu.com/s/1g0-lsRSe2vnjTMOW8ZwSeg?pwd=1fen](https://pan.baidu.com/s/1hz06hkb3Des2KbXGqC3ZBg?pwd=7hmm )
+- 比赛测评链接：https://www.codabench.org/competitions/16403/
+- 视频数据和测试集百度网盘链接：[https://pan.baidu.com/s/1g0-lsRSe2vnjTMOW8ZwSeg?pwd=1fen](https://pan.baidu.com/s/1hz06hkb3Des2KbXGqC3ZBg?pwd=7hmm )
 - 提取码：`7hmm`
+- 训练集百度网盘链接：[https://pan.baidu.com/s/131SOJdocmrfWTobKXvYqDg?pwd=jj3g](https://pan.baidu.com/s/131SOJdocmrfWTobKXvYqDg?pwd=jj3g)
+- 提取码：`jj3g`
 
 ## 测评内容
 
